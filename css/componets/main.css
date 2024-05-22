@@ -1,0 +1,11 @@
+.container-main {
+  padding: 40px;
+  border-top: 5px solid gray;
+}
+
+.main-form {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 40px;
+}

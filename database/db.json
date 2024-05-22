@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "b419",
+      "name": "Boba",
+      "price": "189",
+      "image": "https://attakus.art/wp-content/uploads/2024/04/sw066-boba-fett-carre-01-1.jpg"
+    },
+    {
+      "id": "05aa",
+      "name": "Grogu",
+      "price": "79",
+      "image": "https://attakus.art/wp-content/uploads/2023/08/GRO06-02.jpg"
+    },
+    {
+      "id": "9925",
+      "name": "Garde Prétorien",
+      "price": "135",
+      "image": "https://attakus.art/wp-content/uploads/2022/07/1000X674-300-V.jpg"
+    },
+    {
+      "id": "fe9c",
+      "name": "Dark Vador",
+      "price": "135",
+      "image": "https://attakus.art/wp-content/uploads/2022/07/1000X674-300-V-1.jpg"
+    },
+    {
+      "id": "c2b4",
+      "name": "Stormtrooper",
+      "price": "129",
+      "image": "https://attakus.art/wp-content/uploads/2021/07/Stormtrooper-star-wars-attakus-figurine-resine-08.jpg"
+    }
+  ]
+}

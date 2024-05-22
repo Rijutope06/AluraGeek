@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alura Geek</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+  <header class="container-header">
+    <a href="/" class="link">
+      <img src="./img/logo-white.svg" alt="Logo Alura Geek">
+    </a>
+  </header>
+  <main class="container-main">
+    <div class="container-left">
+      <h2 class="titleFont">AGREGAR PRODUCTO:</h2>
+      <form action="" class="main-form" data-form>
+        <input required data-name class="input-style" type="text" name="" id="" placeholder="nombre...">
+        <input required data-price class="input-style" type="number" name="" id="" placeholder="precio...">
+        <input required data-image class="input-style" type="text" name="" id="" placeholder="imagen...">
+        <div class="main-btn">
+          <input class="btn btn-primary" type="submit" value="Enviar">
+          <input class="btn btn-secundary" type="reset" value="Limpiar">
+        </div>
+      </form>
+    </div>
+    <div class="container-rigth">      
+      <h2 class="titleFont">MIS PRODUCTOS:</h2>
+      <div data-product class="list-produts">
+      </div>   
+    </div>
+  </main>
+  <footer class="container-footer">
+    <div class="footer-logo">
+      <a href="/" class="link">
+        <img src="./img/logo-white.svg" alt="Logo Alura Geek">
+      </a>
+    </div>
+    <div class="footer-title">
+      <h2 class="ibm-plex-mono-regular title-footer">Desarollado por Junior Torres
+        <span class="ibm-plex-mono-thin">Alura Latam- 2024</span>
+      </h2>
+    </div>
+  </footer>
+  <script type="module" src="js/controllers/main.js"></script>
+</body>
+
+</html>

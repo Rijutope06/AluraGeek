@@ -1,0 +1,22 @@
+.container-footer {
+  height: auto;
+}
+
+.footer-title {
+  display: block;
+  text-align: center;
+  width: 269px;
+} 
+
+
+.title-footer {
+  font-family: 'ibm-plex-mono-regular';
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: var(--white);
+}
+ 
+.title-footer span {
+  font-weight: 200;
+}

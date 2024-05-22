@@ -1,0 +1,11 @@
+.input-style {
+  border: 3px solid var(--btnColor);
+  border-radius: 30px;
+  height: 58px;
+  padding: 12px;
+  font-weight: 600;
+}
+
+.input-style::placeholder {
+  color: var(--btnColor);
+}

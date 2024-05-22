@@ -1,0 +1,20 @@
+@import './card.css';
+
+.container-left {
+  overflow: auto;
+  scroll-behavior: smooth;
+  padding: 40px 0 40px 0;
+  /* border: 1px solid blue; */
+}
+
+.list-produts{
+   padding: 40px 0 40px 0;
+  /* border: 1px solid blue; */
+  display: flex;
+  overflow: auto;
+  gap: 10px;
+}
+
+.titleFont {
+  margin-top: 50px;
+}
